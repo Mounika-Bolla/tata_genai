@@ -78,17 +78,7 @@ This certification program aims to:
 - Submit and pass the capstone project
 - Agree to the certification terms and conditions
 
-## Support & Contact
 
-For questions, technical support, or enrollment inquiries, please contact:
-- **Email**: certification@tatacurrent.com
-- **Website**: www.tatacurrent.com/genai-certification
-- **Support Forum**: community.tatacurrent.com
-
-## Program Duration
-
-- **Self-Paced**: 8-12 weeks (recommended)
-- **Instructor-Led**: 6 weeks (sessions twice per week)
 
 ## Certificate Upon Completion
 
